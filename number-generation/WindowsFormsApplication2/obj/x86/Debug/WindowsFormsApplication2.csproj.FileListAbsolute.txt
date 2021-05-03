@@ -1,0 +1,31 @@
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+G:\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+G:\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\PC\Desktop\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\FATİHK\Videos\görsel 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\FATİHK\Videos\görsel 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\FATIHKAZDAL\Desktop\ÖĞRETMEN BİLGİSAYARI DERS NOTLARI\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\FATIHKAZDAL\Desktop\ÖĞRETMEN BİLGİSAYARI DERS NOTLARI\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Yasin\GÖRSEL 1\9 mart\9 mart\soru 2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
