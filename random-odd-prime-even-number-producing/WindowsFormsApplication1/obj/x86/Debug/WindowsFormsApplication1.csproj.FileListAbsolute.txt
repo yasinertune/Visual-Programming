@@ -1,0 +1,36 @@
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\27 Ekim\2.yarı\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\27 Ekim\2.yarı\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\27 Ekim\2.yarı\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\27 Ekim\2.yarı\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\27 Ekim\2.yarı\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\27 Ekim\2.yarı\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\27 Ekim\2.yarı\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\görsel pro 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\görsel pro 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FATIHKAZDAL\Desktop\ÖĞRETMEN BİLGİSAYARI DERS NOTLARI\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIHKAZDAL\Desktop\ÖĞRETMEN BİLGİSAYARI DERS NOTLARI\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\yasin\Desktop\GÖRSEL 1\2 mart\soru 3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
