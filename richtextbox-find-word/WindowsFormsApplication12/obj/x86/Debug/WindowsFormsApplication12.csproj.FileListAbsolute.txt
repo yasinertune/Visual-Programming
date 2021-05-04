@@ -1,0 +1,42 @@
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+E:\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+E:\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+E:\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+E:\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+E:\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+E:\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+E:\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+E:\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+C:\Users\PC\Desktop\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+C:\Users\PC\Desktop\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\PC\Desktop\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\PC\Desktop\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\PC\Desktop\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\PC\Desktop\görsel pro 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+C:\Users\FATİHK\Videos\görsel 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+C:\Users\FATİHK\Videos\görsel 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+C:\Users\yasin\Desktop\GÖRSEL 1\23 mart\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
