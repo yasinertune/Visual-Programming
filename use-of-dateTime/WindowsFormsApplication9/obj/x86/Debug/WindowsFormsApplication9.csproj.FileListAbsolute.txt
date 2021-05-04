@@ -1,0 +1,24 @@
+C:\Users\FATİHK\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\FATİHK\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\FATİHK\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\FATİHK\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\FATİHK\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\FATİHK\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+C:\Users\FATİHK\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\FATİHK\Videos\görsel 1\16 mart datetimepicker\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+C:\Users\FATİHK\Videos\görsel 1\16 mart datetimepicker\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\FATİHK\Videos\görsel 1\16 mart datetimepicker\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\FATİHK\Videos\görsel 1\16 mart datetimepicker\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\FATİHK\Videos\görsel 1\16 mart datetimepicker\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\FATİHK\Videos\görsel 1\16 mart datetimepicker\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\FATİHK\Videos\görsel 1\16 mart datetimepicker\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\FATİHK\Videos\görsel 1\16 mart datetimepicker\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\yasin\Desktop\Use-of-DateTimePicker\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
